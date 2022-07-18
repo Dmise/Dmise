@@ -1,4 +1,4 @@
-### Hi there 👋
+### C# Junior Developer :computer:
 ![aspnetcore](https://user-images.githubusercontent.com/46092536/179498475-f0f4e0dd-eb08-44ee-884d-33bbd9d1fcfa.png)
 
 <!--
