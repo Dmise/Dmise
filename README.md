@@ -1,8 +1,17 @@
 ### C# Junior Developer :computer:
-![aspnetcore](https://user-images.githubusercontent.com/46092536/179498475-f0f4e0dd-eb08-44ee-884d-33bbd9d1fcfa.png)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,cs,dotnet,html,mysql,linux" />  </br>
+    <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  </a>
+</p>
+
+
 
 <!--
 **Dmise/Dmise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![aspnetcore](https://user-images.githubusercontent.com/46092536/179498475-f0f4e0dd-eb08-44ee-884d-33bbd9d1fcfa.png)
 
 Here are some ideas to get you started:
 
