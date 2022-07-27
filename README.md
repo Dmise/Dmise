@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/dmise" target="blank" ><img align="centre" src="https://web.ojoteam.com/img/icons/telegram.svg" alt="instagram" height="40" width="40" /></a>
-  <a href="https://wa.me/79215570414" target="blank" ><img align="centre" src="https://web.ojoteam.com/img/icons/whatsapp.svg" height="40" width="40" /></a>
-<a href="https://instagram.com/dmise_petrov" target="blank" ><img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
-<a href="https://vk.com/dmise" target="blank" ><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://t.me/dmise" target="_blank" ><img align="centre" src="https://web.ojoteam.com/img/icons/telegram.svg" alt="instagram" height="40" width="40" /></a>
+  <a href="https://wa.me/79215570414" target="_blank" ><img align="centre" src="https://web.ojoteam.com/img/icons/whatsapp.svg" height="40" width="40" /></a>
+<a href="https://instagram.com/dmise_petrov" target="_blank" ><img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://vk.com/dmise" target="_blank" ><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="instagram" height="40" width="40" /></a>
 <p>
   
 
