@@ -1,5 +1,8 @@
 ### C# Junior Developer :computer:
+- 🔭 I’m currently working on ... my site [dmise.dev](https://dmise.dev), where I'll show my completed test tasks. It's launched on ubuntu VDS with nginx web server with runningin .net core applications 
+- 🌱 I’m currently learning ... js, jquery, ajax, bootstrap as a css framowork, and web building in general.
 
+<h1 align="center">My current skill set</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,cs,dotnet,html,mysql,linux" />  </br>
