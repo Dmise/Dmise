@@ -1,6 +1,17 @@
 ### C# Junior Developer :computer:
-- 🔭 I’m currently working on ... my site [dmise.dev](https://dmise.dev), where I'll show my completed test tasks. It's launched on ubuntu VDS with nginx web server with runningin .net core applications 
+- 🔭 I’m currently working on ... my site [dmise.dev](https://dmise.dev), It's launched on ubuntu VDS with nginx web server with runningin .net core applications 
 - 🌱 I’m currently learning ... js, jquery, ajax, bootstrap as a css framowork, and web building in general.
+
+<hr>
+
+- :pushpin:For easy navigation through the directories, I ordered them into 3 list
+
+|:rocket: Applications|:golf:Small Tasks|:books:Tutorials|
+|:-:|:-:|:-:|
+|In this list I've show application or parts of source code. There may be completed test task from employers , my freelance jobs or whatever.|There are not completed application, only little tests, that I pass during job searching, or completed by my own inspiration.|In this list of directories you can find my completed tutorials|
+|[See Applications](https://github.com/stars/Dmise/lists/applications)| [See Small Tasks](https://github.com/stars/Dmise/lists/small-tasks)|[See Tutorials](https://github.com/stars/Dmise/lists/tutorials)|
+
+
 
 <h1 align="center">My current skill set</h1>
 <p align="center">
