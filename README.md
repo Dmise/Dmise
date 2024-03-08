@@ -1,6 +1,6 @@
 ### C# Developer :computer:
 - 🔭 I’m currently working on ... my site [dmise.dev](https://dmise.dev), It's launched on ubuntu VDS with nginx web server with runningin .net core applications 
-- 🌱 I’m currently learning ... js, jquery, ajax, bootstrap as a css framowork, and web building in general.
+- 🌱 I’m currently learning ... Blazor, TeamCity(CI/CD), Go.
 
 <hr>
 
